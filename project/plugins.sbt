@@ -1,0 +1,1 @@
+../deps/common/project/plugins.sbt

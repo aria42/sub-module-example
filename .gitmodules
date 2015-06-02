@@ -1,0 +1,3 @@
+[submodule "deps/common"]
+	path = deps/common
+	url = git@github.com:allenai/common.git
